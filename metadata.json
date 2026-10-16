@@ -1,0 +1,6 @@
+{
+  "name": "Serenade - 落ち着く楽曲のリスニング＆公開スペース",
+  "description": "自作の落ち着く1曲をアップロードして、美しいビジュアライザーや環境音とともに心地よく聴けるシングル楽曲専用サイト。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
